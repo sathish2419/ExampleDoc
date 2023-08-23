@@ -4,16 +4,14 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.AllArgsConstructor;
 import java.util.Date;
-
 @Entity
 @Table(name = "company_group", schema = "isys_erp")
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
 public class CompanyGroup {
-    //Entity
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
     @Column(name = "no", nullable = false)
     private String no;
@@ -25,10 +23,8 @@ public class CompanyGroup {
     private String createdBy;
     @Column(name = "updated_by")
     private String updatedBy;
-    @Temporal(TemporalType.TIMESTAMP)
     @Column(name = "created_date", nullable = false, updatable = false)
     private Date createdDate = new Date();
-    @Temporal(TemporalType.TIMESTAMP)
     @Column(name = "updated_date")
     private Date updatedDate = new Date();
 }

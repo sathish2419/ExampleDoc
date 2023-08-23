@@ -1,5 +1,6 @@
-com\ISYS\HRMS\Entity\CompanyGroup.class
-com\ISYS\HRMS\ProjectApplication.class
 com\ISYS\HRMS\Repository\CompanyGroupRepository.class
 com\ISYS\HRMS\Service\CompanyGroupService.class
 com\ISYS\HRMS\Controller\CompanyGroupController.class
+com\ISYS\HRMS\Entity\CompanyGroup.class
+com\ISYS\HRMS\ProjectApplication.class
+com\ISYS\HRMS\Service\Impl\CompanyGroupServiceImpl.class

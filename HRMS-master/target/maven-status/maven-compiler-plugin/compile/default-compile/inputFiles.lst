@@ -1,5 +1,7 @@
-D:\Jeyan Project Work\HRMS-master\HRMS-master\src\main\java\com\ISYS\HRMS\ProjectApplication.java
-D:\Jeyan Project Work\HRMS-master\HRMS-master\src\main\java\com\ISYS\HRMS\Controller\CompanyGroupController.java
-D:\Jeyan Project Work\HRMS-master\HRMS-master\src\main\java\com\ISYS\HRMS\Repository\CompanyGroupRepository.java
-D:\Jeyan Project Work\HRMS-master\HRMS-master\src\main\java\com\ISYS\HRMS\Entity\CompanyGroup.java
-D:\Jeyan Project Work\HRMS-master\HRMS-master\src\main\java\com\ISYS\HRMS\Service\CompanyGroupService.java
+E:\oops-main (2)\oops-main\oops-main\Hrms_CompanyGroup_Swagger_demo\HRMS-master\src\main\java\com\ISYS\HRMS\Entity\CompanyGroup.java
+E:\oops-main (2)\oops-main\oops-main\Hrms_CompanyGroup_Swagger_demo\HRMS-master\src\main\java\com\ISYS\HRMS\Repository\CompanyGroupRepository.java
+E:\oops-main (2)\oops-main\oops-main\Hrms_CompanyGroup_Swagger_demo\HRMS-master\src\main\java\com\ISYS\HRMS\Config\SwaggerConfig.java
+E:\oops-main (2)\oops-main\oops-main\Hrms_CompanyGroup_Swagger_demo\HRMS-master\src\main\java\com\ISYS\HRMS\ProjectApplication.java
+E:\oops-main (2)\oops-main\oops-main\Hrms_CompanyGroup_Swagger_demo\HRMS-master\src\main\java\com\ISYS\HRMS\Service\CompanyGroupService.java
+E:\oops-main (2)\oops-main\oops-main\Hrms_CompanyGroup_Swagger_demo\HRMS-master\src\main\java\com\ISYS\HRMS\Controller\CompanyGroupController.java
+E:\oops-main (2)\oops-main\oops-main\Hrms_CompanyGroup_Swagger_demo\HRMS-master\src\main\java\com\ISYS\HRMS\Service\Impl\CompanyGroupServiceImpl.java
