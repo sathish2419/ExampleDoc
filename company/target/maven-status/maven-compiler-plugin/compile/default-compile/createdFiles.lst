@@ -1,0 +1,10 @@
+com\companygroup\company\Dto\CompanyGroupDTO.class
+com\companygroup\company\mapper\CompanyGroupMapper.class
+com\companygroup\company\mapper\CompanyGroupMapperImpl.class
+com\companygroup\company\Entity\CompanyGroup.class
+com\companygroup\company\service\Impl\CompanyGroupServiceImpl.class
+com\companygroup\company\service\Service\CompanyGroupService.class
+com\companygroup\company\mapper\BaseMapper.class
+com\companygroup\company\Controller\CompanyGroupController.class
+com\companygroup\company\Repository\CompanyGroupRepository.class
+com\companygroup\company\CompanyApplication.class
