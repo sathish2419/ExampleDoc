@@ -1,0 +1,10 @@
+com\mapping\onetomany\Model\CustomerDTO.class
+com\mapping\onetomany\Service\CustomerService.class
+com\mapping\onetomany\Entity\BankAccount.class
+com\mapping\onetomany\Model\BankAccountDTO.class
+com\mapping\onetomany\Service\Impl\CustomerServiceImpl.class
+com\mapping\onetomany\OnetomanyApplication.class
+com\mapping\onetomany\Repository\BankAccountRepository.class
+com\mapping\onetomany\Repository\CustomerRepository.class
+com\mapping\onetomany\Controller\CustomerController.class
+com\mapping\onetomany\Entity\Customer.class
