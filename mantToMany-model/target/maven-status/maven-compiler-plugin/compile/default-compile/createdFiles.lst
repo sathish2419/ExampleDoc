@@ -1,0 +1,12 @@
+com\manytomany\model\Course.class
+com\manytomany\service\StudentService.class
+com\manytomany\repositary\CourseRepo.class
+com\manytomany\domain\CourseDomain.class
+com\manytomany\model\StudentCourse.class
+com\manytomany\model\Student.class
+com\manytomany\ManyToManyModelApplication.class
+com\manytomany\repositary\StudentCourseRepo.class
+com\manytomany\controller\StudentController.class
+com\manytomany\repositary\StudentRepo.class
+com\manytomany\service\Impl\StudentServiceImpl.class
+com\manytomany\domain\StudentDomain.class

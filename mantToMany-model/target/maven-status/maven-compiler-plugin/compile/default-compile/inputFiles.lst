@@ -1,0 +1,12 @@
+E:\MantToMany\mantToMany-model\src\main\java\com\manytomany\controller\StudentController.java
+E:\MantToMany\mantToMany-model\src\main\java\com\manytomany\repositary\StudentCourseRepo.java
+E:\MantToMany\mantToMany-model\src\main\java\com\manytomany\service\StudentService.java
+E:\MantToMany\mantToMany-model\src\main\java\com\manytomany\repositary\CourseRepo.java
+E:\MantToMany\mantToMany-model\src\main\java\com\manytomany\model\Student.java
+E:\MantToMany\mantToMany-model\src\main\java\com\manytomany\domain\CourseDomain.java
+E:\MantToMany\mantToMany-model\src\main\java\com\manytomany\model\Course.java
+E:\MantToMany\mantToMany-model\src\main\java\com\manytomany\service\Impl\StudentServiceImpl.java
+E:\MantToMany\mantToMany-model\src\main\java\com\manytomany\model\StudentCourse.java
+E:\MantToMany\mantToMany-model\src\main\java\com\manytomany\domain\StudentDomain.java
+E:\MantToMany\mantToMany-model\src\main\java\com\manytomany\ManyToManyModelApplication.java
+E:\MantToMany\mantToMany-model\src\main\java\com\manytomany\repositary\StudentRepo.java
